@@ -67,7 +67,7 @@ export default function StorytellerApp() {
         <header className="p-4 border-b border-stone-700 bg-stone-800/50 flex justify-between items-center">
           <h1 className="text-2xl font-semibold tracking-tight flex items-center gap-2">
             Outline Owl
-            <img src="/owl-logo.png" alt="Outline Owl logo" className="h-20 w-20 object-contain" />
+            <img src="/owl-logo.svg" alt="Outline Owl logo" className="h-20 w-20 object-contain" />
           </h1>
           <button
             onClick={handleReset}
