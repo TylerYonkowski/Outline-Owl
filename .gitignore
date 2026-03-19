@@ -137,3 +137,10 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# API Keys and Secrets
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
